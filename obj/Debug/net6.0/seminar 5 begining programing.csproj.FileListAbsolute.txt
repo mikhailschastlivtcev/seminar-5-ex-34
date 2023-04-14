@@ -1,0 +1,15 @@
+C:\Users\ghill\Git files\seminar 5 begining programing\bin\Debug\net6.0\seminar 5 begining programing.exe
+C:\Users\ghill\Git files\seminar 5 begining programing\bin\Debug\net6.0\seminar 5 begining programing.deps.json
+C:\Users\ghill\Git files\seminar 5 begining programing\bin\Debug\net6.0\seminar 5 begining programing.runtimeconfig.json
+C:\Users\ghill\Git files\seminar 5 begining programing\bin\Debug\net6.0\seminar 5 begining programing.dll
+C:\Users\ghill\Git files\seminar 5 begining programing\bin\Debug\net6.0\seminar 5 begining programing.pdb
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.csproj.AssemblyReference.cache
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.AssemblyInfoInputs.cache
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.AssemblyInfo.cs
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.csproj.CoreCompileInputs.cache
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.dll
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\refint\seminar 5 begining programing.dll
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.pdb
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\seminar 5 begining programing.genruntimeconfig.cache
+C:\Users\ghill\Git files\seminar 5 begining programing\obj\Debug\net6.0\ref\seminar 5 begining programing.dll
